@@ -1,0 +1,6 @@
+name: RavenPlugin
+version: 0.1
+main: com.augis441.raven.Main
+api-version: 1.21
+author: augis441
+description: A Minecraft 1.21.4 plugin
